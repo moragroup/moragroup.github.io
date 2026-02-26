@@ -136,7 +136,7 @@ And we’re always open to new collaborations 🙂
 <br>
 
 <div align="center">
-  <img src="imgs/digibiotech.jpg" alt="Symposium 2026" width="650"/>
+  <img src="imgs/digibiotech.jepg" alt="Symposium 2026" width="650"/>
   <p><em>
     Us attending LEAD DigiBiotech Symposium – Artificial Intelligence for Sustainable Bioengineering in Graz, Austria 24.02.2026.
   </em></p>
@@ -145,12 +145,20 @@ And we’re always open to new collaborations 🙂
 <br>
 
 <div align="center">
-  <img src="imgs/AMLD.jpg" alt="AMLD 2026" width="650"/>
+  <img src="imgs/AMLD.JPG" alt="AMLD 2026" width="650"/>
   <p><em>
     Us attending AMLD in Laussane, Swizterland 12.02.2026.
   </em></p>
 </div>
 
+
+---
+
+## Team Doing Cool Things
+
+Gabriela was featured in **Time Magazine** for getting her recent USA-APART grant.
+
+[Scientists Are Leaving the US for Europe — and the Impact on Global Research](https://time.com/7379376/scientist-migration-us-to-europe/) — *Time.com*
 
 ---
 
