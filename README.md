@@ -1,5 +1,4 @@
-# The Mora Group  
-### AI driven biochemistry
+# AI driven biochemistry
 
 **AITHYRA, Austria**  
 **Ariane Mora, PhD**  
@@ -7,6 +6,12 @@ amora@aithyra.at
 https://moragroup.github.io/  
 
 ---
+<div align="center">
+  <img src="imgs/lab_meeting.jpg" alt="Lab Meeting" width="650"/>
+  <p><em>
+    Gabriela presenting her project and Luca brought a "Munich style" breakfast! 26.02.2026.
+  </em></p>
+</div>
 
 ## Who We Are
 
@@ -16,7 +21,7 @@ Our mission:
 
 > Build intelligent models that translate **sequence → function**, and use them to discover and design enzymes that matter.
 
-We combine **computational modeling** with **wet-lab experimentation**, enabling a full loop from hypothesis -->  prediction --> experiment --> better models.
+We combine **computational modeling** with **wet-lab experimentation**, enabling a full loop from hypothesis → prediction → experiment → better models.
 
 Lab culture is central to us. We aim to be:
 - Inclusive
@@ -85,8 +90,6 @@ We currently have **5 local** and **2 global** members.
 - **Will** (Brisbane, Australia) – Flow matching for enzyme mechanisms  
 - **Ikumi** (Tokyo, Japan) – Biosensor design  
 
-We’re proudly international and collaborative 🌎
-
 ---
 
 ## Techniques & Tools
@@ -103,8 +106,6 @@ We use the method that best fits the biological question:
 - Contrastive learning  
 - Direct Preference Optimization (DPO)  
 - Large Language Models (LLMs)  
-- Flow matching  
-- Custom statistical modeling  
 
 ---
 
@@ -121,10 +122,35 @@ And we’re always open to new collaborations 🙂
 
 ---
 
-## Gallery
+## Fun and work things
 
-![Symposium 2026](images/symposium.jpg)
-![Lab Meeting](images/lab_meeting.jpg)
+<br>
+
+<div align="center">
+  <img src="imgs/opentrons.jpg" alt="Robotics 2026" width="650"/>
+  <p><em>
+    The team with the robotics setup 20.02.2026.
+  </em></p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="imgs/digibiotech.jpg" alt="Symposium 2026" width="650"/>
+  <p><em>
+    Us attending LEAD DigiBiotech Symposium – Artificial Intelligence for Sustainable Bioengineering in Graz, Austria 24.02.2026.
+  </em></p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="imgs/AMLD.jpg" alt="AMLD 2026" width="650"/>
+  <p><em>
+    Us attending AMLD in Laussane, Swizterland 12.02.2026.
+  </em></p>
+</div>
+
 
 ---
 
