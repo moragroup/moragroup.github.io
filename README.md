@@ -136,7 +136,7 @@ And we’re always open to new collaborations 🙂
 <br>
 
 <div align="center">
-  <img src="imgs/digibiotech.jepg" alt="Symposium 2026" width="650"/>
+  <img src="imgs/digibiotech.jpeg" alt="Symposium 2026" width="650"/>
   <p><em>
     Us attending LEAD DigiBiotech Symposium – Artificial Intelligence for Sustainable Bioengineering in Graz, Austria 24.02.2026.
   </em></p>
