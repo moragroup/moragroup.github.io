@@ -74,10 +74,10 @@ We currently have **5 local** and **2 global** members.
 - **Gabriela** – Evolutionary biology; generating new antibiotic enzymes with DNA language models  
 
 ### Technician
-- **Manuel** – Synthetic biology; building our automated enzyme evaluation pipeline  
+- **Manuel** – Molecular biology; building our automated enzyme evaluation pipeline  
 
 ### PhD Students (Local)
-- **Luca** – Biotechnology; contrastive learning for protein fitness prediction  
+- **Luca** – Biochemistry; contrastive learning for protein fitness prediction  
 - **Sebastian** – Chemistry; using DPO to identify improved catalysts  
 
 ### PhD Students (Remote)
