@@ -72,7 +72,6 @@ We currently have **5 local** and **2 global** members.
 
 ### Postdocs
 - **Gabriela** – Evolutionary biology; generating new antibiotic enzymes with DNA language models  
-- **Béla** – Synthetic biology & ML (joining 2026)
 
 ### Technician
 - **Manuel** – Synthetic biology; building our automated enzyme evaluation pipeline  
