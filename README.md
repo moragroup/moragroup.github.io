@@ -19,28 +19,15 @@ We are an interdisciplinary research group working at the interface of **machine
 
 Our mission:  
 
-> Build intelligent models that translate **sequence → function**, and use them to discover and design enzymes that matter.
+> Build models that translate **sequence → function**, and use them to discover and design enzymes that matter.
 
 We combine **computational modeling** with **wet-lab experimentation**, enabling a full loop from hypothesis → prediction → experiment → better models.
 
-Lab culture is central to us. We aim to be:
+Lab culture is really important - we aim to be:
 - Inclusive
 - Collaborative 
 - Scientifically ambitious 
 - Supportive and fun 
-
-Below you’ll find photos from our recent symposium and our (sometimes intense, always lively) lab meetings.
-
----
-
-## Principal Investigator
-
-**Ariane Mora**
-
-- Principal Investigator, AITHYRA, Austria (from 2025)  
-- Postdoc in enzyme engineering (wet + dry lab), California Institute of Technology (Caltech), USA – Frances Arnold Lab (2023–2025)  
-- PhD in Computational Biology, The University of Queensland, Australia (2019–2023)  
-- Background in Computer Engineering --> transitioned into computational biology  
 
 ---
 
@@ -74,6 +61,14 @@ Example question we care about:
 ## The Team
 
 We currently have **5 local** and **2 global** members.
+
+
+**Ariane Mora**
+
+- Principal Investigator, AITHYRA, Austria (from 2025)  
+- Postdoc in enzyme engineering (wet + dry lab), California Institute of Technology (Caltech), USA – Frances Arnold Lab (2023–2025)  
+- PhD in Computational Biology, The University of Queensland, Australia (2019–2023)  
+- Background in Computer Engineering --> transitioned into computational biology  
 
 ### Postdocs
 - **Gabriela** – Evolutionary biology; generating new antibiotic enzymes with DNA language models  
